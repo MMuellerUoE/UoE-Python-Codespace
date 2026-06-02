@@ -1,13 +1,16 @@
+# weekday and film title
 day = "Saturday"
 film = "A.I. Artificial Intelligence"
 print(f"Today is {day}, and the film showing is {film}.")
 
+# theatre capacity and sales
 n_capacity = 210
 n_minor = 81
 n_adult = 66
 price_minor = 5.99
 price_adult = 10.49
 
+# revenue calculations
 total_tickets_sold = n_minor + n_adult
 seats_remaining = n_capacity - total_tickets_sold
 revenue_tickets = n_minor*price_minor + n_adult*price_adult

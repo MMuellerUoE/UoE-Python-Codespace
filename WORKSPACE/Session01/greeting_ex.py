@@ -1,3 +1,4 @@
+# basic code for printing outputs
 fn = "Alice"
 age = 30
 greeting = "Hello, {}!".format(fn)
