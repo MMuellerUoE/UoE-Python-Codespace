@@ -32,3 +32,8 @@ python seed_data.py
 git status
 git add.
 pwd
+git add .
+git commit -m "Complete Session 1"
+git push
+git add .
+git status
