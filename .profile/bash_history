@@ -1,1 +1,34 @@
 
+pwd
+cd WORKSPACE
+ls
+CD Session01
+cd Session01
+pwd
+touch cinema_ex.py
+ls
+cat cinema_ex.py
+python cinema_ex.py
+fn = "Alice"
+python cinema_ex.py
+exit
+/usr/bin/python3 /workspaces/UoE-Python-Codespace/WORKSPACE/Session01/greeting.py
+/usr/bin/python3 /workspaces/UoE-Python-Codespace/WORKSPACE/Session01/seed_data.py
+python seed_data
+python seed_data.py
+cd
+ls
+dir
+pwd
+cd workspaces
+dir
+exit
+pwd
+cd WORKSPACE
+cd SESSION01
+cd Session01
+python seed_data.py
+/usr/bin/python3 /workspaces/UoE-Python-Codespace/WORKSPACE/Session01/cinema_ex.py
+git status
+git add.
+pwd
